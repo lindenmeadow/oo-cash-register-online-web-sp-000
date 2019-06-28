@@ -25,6 +25,7 @@ class CashRegister
 
   def items
     @@ITEMS << title
+    @@ITEMS
   end
 
 end

@@ -18,6 +18,8 @@ class CashRegister
 
   def apply_discount
     discount = price * discount
-    price -= discount
+    total -= discount
   end
+
+  
 end

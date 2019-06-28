@@ -21,5 +21,8 @@ class CashRegister
     total -= discount
   end
 
-
+  def items
+    
+  end 
+  
 end

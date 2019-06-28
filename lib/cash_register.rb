@@ -21,5 +21,5 @@ class CashRegister
     total -= discount
   end
 
-  
+
 end

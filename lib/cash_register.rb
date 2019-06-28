@@ -15,4 +15,8 @@ class CashRegister
     @price = price
     @total += price
   end
+
+  def apply_discount
+
+  end
 end
